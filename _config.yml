@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "About Me"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "Cache233/cache233.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hanchang Cheng"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Chinese Academy of Sciences(UCAS)"
+  avatar           : "images/me.jpg"
+  bio              : "University of Chinese Academy of Sciences (UCAS) Institute of Information Engineering，Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JJLuRhgAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "chenghanchang@iie.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
