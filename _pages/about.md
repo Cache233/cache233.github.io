@@ -42,7 +42,7 @@ My research interest includes Time Series Anomaly Detection, LLMs and Multi-Agen
 - *2023.10* National Scholarship
 # 📖 Educations
 - *2024.09 - now*, University of Chinese Academy of Sciences 
-- *2020.09 - 2024.06*, Hebei University Of Technology
+- *2020.09 - 2024.06*, Hebei University of Technology
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
