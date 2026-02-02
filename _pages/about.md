@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICASSP 2026. 
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2026. 
 
 # 📝 Publications 
 
